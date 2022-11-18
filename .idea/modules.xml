@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LOAD-BALANCER-WITH-API-GATEWAY-master.iml" filepath="$PROJECT_DIR$/.idea/LOAD-BALANCER-WITH-API-GATEWAY-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LOAD-BALANCER-WITH-API-GATEWAY-master/api-gateway/api-gateway-server.iml" filepath="$PROJECT_DIR$/LOAD-BALANCER-WITH-API-GATEWAY-master/api-gateway/api-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LOAD-BALANCER-WITH-API-GATEWAY-master/micro-service-client/micro-service-client.iml" filepath="$PROJECT_DIR$/LOAD-BALANCER-WITH-API-GATEWAY-master/micro-service-client/micro-service-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LOAD-BALANCER-WITH-API-GATEWAY-master/micro-service-server/micro-service-server.iml" filepath="$PROJECT_DIR$/LOAD-BALANCER-WITH-API-GATEWAY-master/micro-service-server/micro-service-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LOAD-BALANCER-WITH-API-GATEWAY-master/netflix-eureka-naming-server/netflix-eureka-naming-server.iml" filepath="$PROJECT_DIR$/LOAD-BALANCER-WITH-API-GATEWAY-master/netflix-eureka-naming-server/netflix-eureka-naming-server.iml" />
+    </modules>
+  </component>
+</project>
